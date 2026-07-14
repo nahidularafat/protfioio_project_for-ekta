@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/protfioio_project_for-ekta/static/css/main.bf538fe7.css",
+    "main.js": "/protfioio_project_for-ekta/static/js/main.1de9053f.js",
+    "static/media/HeroImage.jpg": "/protfioio_project_for-ekta/static/media/HeroImage.f46ca1f47dfe4967fd4a.jpg",
+    "index.html": "/protfioio_project_for-ekta/index.html",
+    "main.bf538fe7.css.map": "/protfioio_project_for-ekta/static/css/main.bf538fe7.css.map",
+    "main.1de9053f.js.map": "/protfioio_project_for-ekta/static/js/main.1de9053f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.1de9053f.js"
+  ]
+}
