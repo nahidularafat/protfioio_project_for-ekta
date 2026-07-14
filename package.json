@@ -1,7 +1,7 @@
 {
   "name": "rishav-chanda-portfolio",
   "version": "0.1.0",
-  "homepage": ".",
+  "homepage": "https://nahidularafat.github.io/protfioio_project_for-ekta",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
@@ -32,6 +32,7 @@
     "eject": "react-scripts eject",
     "predeploy" : "npm run build",
     "deploy" : "gh-pages -d build"
+    
   },
   "eslintConfig": {
     "extends": [
